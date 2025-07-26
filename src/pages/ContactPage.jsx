@@ -36,22 +36,22 @@ export default function ContactPage() {
         {
             icon: '📧',
             title: '이메일',
-            value: 'your.email@example.com',
-            link: 'mailto:your.email@example.com',
+            value: 'hersis0219@gmail.com',
+            link: 'mailto:hersis0219@gmail.com',
             description: '프로젝트 문의, 협업 제안'
         },
         {
             icon: '🐙',
             title: 'GitHub',
-            value: 'github.com/yourusername',
-            link: 'https://github.com/yourusername',
+            value: 'github.com/calvin2001',
+            link: 'https://github.com/calvin2001',
             description: '코드 저장소, 오픈소스 프로젝트'
         },
         {
             icon: '💼',
             title: 'LinkedIn',
-            value: 'linkedin.com/in/yourprofile',
-            link: 'https://linkedin.com/in/yourprofile',
+            value: 'https://www.linkedin.com/in/hersis-kimus-891a06260/',
+            link: 'https://www.linkedin.com/in/hersis-kimus-891a06260/',
             description: '프로페셔널 네트워킹'
         },
         {

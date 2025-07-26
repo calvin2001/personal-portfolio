@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export default function HomePage() {
     const [text, setText] = useState('');
-    const fullText = '풀스택 개발자가 되는 중입니다!';
+    const fullText = '풀스택 개발자이자 AI 엔지니어가 되는 중입니다!';
 
     // 타이핑 애니메이션 효과
     useEffect(() => {

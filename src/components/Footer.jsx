@@ -26,7 +26,7 @@ export default function Footer() {
                             💻 Portfolio
                         </Link>
                         <p className="text-gray-400 mb-4 leading-relaxed">
-                            끊임없이 배우고 성장하는 예비 개발자입니다. 
+                            끊임없이 배우고 성장하는 예비 개발자, AI 엔지니어입니다. 
                             JavaScript와 React를 중심으로 웹 개발의 즐거움을 
                             발견하며 풀스택 개발자를 꿈꾸고 있습니다.
                         </p>

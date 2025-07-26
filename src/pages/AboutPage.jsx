@@ -14,22 +14,22 @@ export default function AboutPage() {
 
     const timeline = [
         {
-            date: '2024.01',
+            date: '2025.07',
             title: '군 전역 & 복학 준비',
-            description: '컴퓨터공학과 복학을 앞두고 프로그래밍 실력 회복 시작'
+            description: 'ITM전공 복학을 앞두고 프로그래밍 실력 회복 시작'
         },
         {
-            date: '2024.02',
+            date: '2025.08',
             title: 'JavaScript 기본기 복습',
             description: 'ES6 문법, DOM 조작, 비동기 처리 등 JavaScript 기초 다지기'
         },
         {
-            date: '2024.03',
+            date: '2025.08',
             title: 'React 학습 시작',
             description: 'Hook, 컴포넌트, 상태관리 등 React 핵심 개념 학습'
         },
         {
-            date: '2024.04',
+            date: '2025.09',
             title: '포트폴리오 프로젝트',
             description: 'React Router를 활용한 포트폴리오 웹사이트 제작'
         }
@@ -51,7 +51,7 @@ export default function AboutPage() {
                         👋 저를 소개합니다
                     </h1>
                     <p className="text-xl text-gray-300">
-                        끊임없이 배우고 성장하는 예비 개발자입니다
+                        끊임없이 배우고 성장하는 예비 개발자, AI  엔지니어입니다
                     </p>
                 </div>
 
@@ -62,7 +62,7 @@ export default function AboutPage() {
                         <h2 className="text-2xl font-bold text-white mb-6">🎯 나의 여정</h2>
                         <div className="space-y-4 text-gray-300">
                             <p>
-                                군 복무를 마치고 복학을 앞둔 컴퓨터공학과 학생입니다.
+                                군 복무를 마치고 복학을 앞둔 SEOULTECT ITM전공 학생입니다.
                                 프로그래밍 실력을 회복하고 실전 경험을 쌓기 위해 
                                 웹 개발 공부를 시작했습니다.
                             </p>
